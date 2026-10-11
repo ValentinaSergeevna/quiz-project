@@ -1,0 +1,6 @@
+Вопрос: Какая команда отправляет ваши коммиты на GitHub?
+A) git push
+B) git send
+C) git upload
+D) git publish
+Правильный ответ: A
